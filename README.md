@@ -1,5 +1,5 @@
 ### Hi there, my name is Hammad Sheikh
-I am currently a Business Technology Management student at Ted Rogers School of Management, minoring in Computer Science
+I am currently a second year Business Technology Management Co-op student at Ted Rogers School of Management, minoring in Computer Science
 
 <!--
 **Hammad-M-Sheikh/Hammad-M-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
