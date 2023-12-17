@@ -1,4 +1,4 @@
-### Hi there, my name is Hammad Sheikh
+###Hammad Sheikh
 I am currently a second year Business Technology Management Co-op student at Ted Rogers School of Management, minoring in Computer Science
 
 <!--
