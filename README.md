@@ -1,9 +1,11 @@
-## Hi there 👋
+<h1>Hi,
+<h2>My name is Hammad, and here is some quick information about me
+
+<h4>Projects:</h2>
+
 
 <!--
-**Hammad-M-Sheikh/Hammad-M-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
