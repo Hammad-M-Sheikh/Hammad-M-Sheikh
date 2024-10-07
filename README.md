@@ -1,5 +1,5 @@
 <h1>Hi there,
-<h2>My name is Hammad, and here is some quick information about me
+<h2>My name is Hammad, here is some quick information about me
 
 
 <!--
